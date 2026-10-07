@@ -2,7 +2,7 @@
 setlocal
 
 REM ===== CHEMIN VERS JAVAFX LIB =====
-set "JAVAFX_LIB=C:PATH\JAVAFX\SDK"
+set "JAVAFX_LIB=C:PATH\JAVAFX\SDK\LIB"
 
 REM ===== DOSSIERS =====
 set "SRC_DIR=src\main\java"
